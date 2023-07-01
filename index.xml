@@ -7,7 +7,16 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
     <copyright>Copyright © 2020, Jane Doe.</copyright>
-    <lastBuildDate>Fri, 03 Jan 2020 00:00:00 +0000</lastBuildDate><atom:link href="https://dietang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dietang.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Single-Cell Genomics</title>
+      <link>https://dietang.github.io/single-cell-genomics/</link>
+      <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
+      
+      <guid>https://dietang.github.io/single-cell-genomics/</guid>
+      <description>Single-cell genomics embedding scaling </description>
+    </item>
+    
     <item>
       <title>Markdown Syntax Guide</title>
       <link>https://dietang.github.io/markdown-syntax-guide/</link>
