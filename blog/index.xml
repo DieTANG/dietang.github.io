@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Scientific Blog</title>
+    <title>Blog on Dié Tang&#39;s Scientific World</title>
     <link>https://dietang.github.io/blog/</link>
-    <description>Recent content in Blog on Scientific Blog</description>
+    <description>Recent content in Blog on Dié Tang&#39;s Scientific World</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2020, Jane Doe.</copyright>
+    <copyright>Copyright © 2023, Dié Tang.</copyright>
     <lastBuildDate>Sat, 01 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dietang.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Single-Cell Genomics</title>
-      <link>https://dietang.github.io/single-cell-genomics/</link>
+      <title>Machine Learning</title>
+      <link>https://dietang.github.io/machine-learning/</link>
       <pubDate>Sat, 01 Jul 2023 00:00:00 +0000</pubDate>
       
-      <guid>https://dietang.github.io/single-cell-genomics/</guid>
-      <description>Single-cell genomics embedding scaling </description>
+      <guid>https://dietang.github.io/machine-learning/</guid>
+      <description>The introduction of machine learning Probability theory Logistic Regression Naïve Bayes embedding scaling </description>
     </item>
     
     <item>

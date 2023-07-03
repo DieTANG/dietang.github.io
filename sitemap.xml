@@ -3,13 +3,25 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://dietang.github.io/</loc>
-    <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dietang.github.io/journal/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dietang.github.io/journal/test/</loc>
+    <lastmod>2023-07-03T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dietang.github.io/blog/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dietang.github.io/single-cell-genomics/</loc>
+    <loc>https://dietang.github.io/machine-learning/</loc>
     <lastmod>2023-07-01T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dietang.github.io/journal/20230628/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://dietang.github.io/journal/20230629/</loc>
+    <lastmod>2023-06-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://dietang.github.io/blog/markdown/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
@@ -20,8 +32,6 @@
     <loc>https://dietang.github.io/blog/syntax/</loc>
     <lastmod>2020-01-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>https://dietang.github.io/bear/</loc>
-  </url><url>
-    <loc>https://dietang.github.io/hugo/</loc>
+    <loc>https://dietang.github.io/pipeline/</loc>
   </url>
 </urlset>
