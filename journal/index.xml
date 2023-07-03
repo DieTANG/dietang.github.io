@@ -1,42 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Journal on Dié Tang&#39;s Scientific World</title>
+    <title>Journal on Dié Tang&#39;s Personal Website</title>
     <link>https://dietang.github.io/journal/</link>
-    <description>Recent content in Journal on Dié Tang&#39;s Scientific World</description>
+    <description>Recent content in Journal on Dié Tang&#39;s Personal Website</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2023, Dié Tang.</copyright>
-    <lastBuildDate>Mon, 03 Jul 2023 00:00:00 +0000</lastBuildDate><atom:link href="https://dietang.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://dietang.github.io/journal/test/</link>
-      <pubDate>Mon, 03 Jul 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dietang.github.io/journal/test/</guid>
-      <description>test01 test02 this is a test content
-test02 test02
-test03 test03 </description>
-    </item>
-    
-    <item>
-      <title>Fanzor is a eukaryotic pragrammable RNA-guided endunuclease</title>
-      <link>https://dietang.github.io/journal/20230628/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dietang.github.io/journal/20230628/</guid>
-      <description>摘要 RNA-guided系统利用guide RNA和靶核酸序列之间的互补性来识别遗传元件，在原核生物和真核生物的生物过程中发挥核心作用。CRISPR-Cas系统为细菌和古细菌等原核生物为细菌和古细菌等原核生物提供了针对外来遗传元件的适应性免疫。Cas 蛋白执行 guide RNA dependent 切割。目前已经研究了一些真核 RNA guide 系统，例如 RNA 干扰与核糖体 RNA 修饰，但是前期对于真核生物 RNA 是否具有 RNA guide 的核酸内切酶仍然不清楚。近期报道了一类新的原核 RNA guide 系统 OMEGA。OMEGA 效应子 TnpB 是 Cas9 的推定祖先，具有 RNA 引导的核酸内切酶活性。TnpB 也可能是真核转座子编码的 Fanzor 蛋白的祖先，为真核生物也提供了可编程 RNA 引导核酸内切酶的可能性。张峰团队报道了 Fz 的生化特征，表明它是一种 RNA 引导的 DNA 核酸内切酶。</description>
-    </item>
-    
-    <item>
-      <title>癌症的非整倍性主要由肿瘤的适应性影响决定</title>
-      <link>https://dietang.github.io/journal/20230629/</link>
-      <pubDate>Wed, 28 Jun 2023 00:00:00 +0000</pubDate>
-      
-      <guid>https://dietang.github.io/journal/20230629/</guid>
-      <description>背景 非整倍性是癌症基因组中最普遍的改变（90%的肿瘤中能观察到），但是癌症非整倍性的驱动性仍然不清楚。其患病率可能反映了染色体错误分离、重排、或者中心体畸变（机械偏差），或与非整倍体相关的适应性优势（选择偏差）。非整倍性被发现有助于肿瘤进化和耐药性。
-染色体臂水平拷贝数变化（arm-SCNAs） 从端粒延伸到着丝粒的 SCNA 是癌症中最常见的体细胞遗传变化事件之一。</description>
-    </item>
-    
+    <copyright>Copyright © 2023, Dié Tang.</copyright><atom:link href="https://dietang.github.io/journal/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
