@@ -38,9 +38,8 @@
     font-family: Verdana, sans-serif;
     margin: auto;
     padding: 20px;
-    max-width: 820px;
-    text-align: center;
-    background-image: url('https://dietang.github.io/images/background.png');
+    max-width: 720px;
+    text-align: left;
     background-color: #fff;
     word-wrap: break-word;
     overflow-wrap: break-word;
